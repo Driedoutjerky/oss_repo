@@ -7,3 +7,6 @@ Thank you.
 This is added through second commit.
 
 How to check difference in my files. 
+
+This is for the VCS practice, how to checkout different commits.
+
